@@ -16,14 +16,17 @@ cover: "/assets/images/owl.jpg"
 covercredits: "http://bryanmmathers.com"
 
 name: 'Contrafabulists'
-author: 'Audrey Watters'
+
+author_aud: 'Audrey Watters'
 author_image: "/assets/images/author_aw.jpg"
+author_url: "http://audreywatters.com"
 author2: 'Kin Lane'
-author_image2: "/assets/images/author_kl.jpg"
+author2_image: "/assets/images/author_kl.jpg"
+author2_url: "http://kinlane.com"
 
 paginate:	5
 paginate_path: "/blog/page:num"
-permalink: /:categories/:year/:month/:day/:title 
+permalink: /:categories/:year/:month/:day/:title
 
 url: "http://contrafabulists.com" # the base hostname & protocol for your site
 baseurl: ""
@@ -40,7 +43,7 @@ social:
     share_link: "&url="
 
   - icon:   facebook
-    url: https://facebook.com/contrafabulists  
+    url: https://facebook.com/contrafabulists
     desc: Like me on facebook
     share_url: http://www.facebook.com/sharer/sharer.php
     share_title: ?title=
@@ -49,13 +52,13 @@ social:
   - icon:   github
     url:    https://github.com/Contrafabulists/website
     desc:   Fork me on github
-    share_url: 
+    share_url:
     share_title:
     share_link:
 
  # - icon:  google-plus
- #   url:   
- #   desc:  
+ #   url:
+ #   desc:
  #   share_url:
  #   share_title:
  #   share_link:
@@ -72,6 +75,4 @@ social:
     desc: Email
     share_url:
     share_title:
-    share_link:    
-  
-
+    share_link:
