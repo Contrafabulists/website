@@ -1,6 +1,6 @@
 ## CONTENT
 
-Copyright (c) 2019 The Contrafabulists
+Copyright (c) 2018-2020 The Contrafabulists
 
 ## CODE
 
